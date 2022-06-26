@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* position: relative; */
+
+}
+.container h2{
+    
+    margin: 0;
+    padding: 10px;
+    font-weight: 700;
+
+}
+
+
+.container{
+    margin: auto;
+    text-align: center ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+
+
+.nav-center h1{
+    font-size: 5rem;
+    font-weight: 700;
+    text-align: center;
+ justify-content: center;
+}
+
+.nav-center hr{
+    height: 20px;
+}
+
+.nav-center ul li a{
+    font-size: 500;
+}
+
+ul li {
+    list-style-type: none;    
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 700;
+}
